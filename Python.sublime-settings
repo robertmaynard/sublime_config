@@ -1,0 +1,25 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Zenburnesque.tmTheme",
+  "font_face": "Source Code Pro",
+  "font_size": 13.0,
+  "gutter": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_subsequent_lines": true,
+  "indent_to_bracket": false,
+  "rulers":
+  [
+    80
+  ],
+  "detect_indentation": false,
+  "smart_indent": true,
+  "auto_indent": false,
+  "spell_check": true,
+  "tab_size": 2,
+  "use_tab_stops": false,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": true
+}
