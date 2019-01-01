@@ -4,9 +4,9 @@
 	"default_line_ending": "system",
 	"detect_indentation": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "sourcecodepro mono",
+	"font_face": "source code pro",
 	"font_options": "Default.sublime-theme",
-	"font_size": 12,
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -24,5 +24,4 @@
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true
-
 }
